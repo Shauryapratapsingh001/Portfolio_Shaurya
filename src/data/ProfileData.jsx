@@ -22,7 +22,7 @@ export const projectsData = [
       "A modern, responsive portfolio website built using React to showcase my projects, technical skills, and professional experienc",
     technologies: ["React", "CSS", "Html", "JavaScript", "EmailJS"],
     image: Shuarya,
-    liveLink: "https://modern-portfolio-frontend-react-js-xi.vercel.app/",
+    liveLink: "portfolio-shaurya-one.vercel.app/",
     githubLink: "https://github.com/Shauryapratapsingh001?tab=repositories",
     projectStatus: "Completed",
     statusText: "Live and fully functional",
