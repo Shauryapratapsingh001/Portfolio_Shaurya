@@ -3,7 +3,7 @@ import { FaLinkedin } from "react-icons/fa";
 import { FaSquareGithub } from "react-icons/fa6";
 import { BiLogoGmail } from "react-icons/bi";
 import { TbArrowBigUp } from "react-icons/tb";
-import cv_img from "../assets/New.pdf";
+import cv_img from "../assets/Updated.pdf";
 
 const Footer = () => {
   const linkStyle = "text-white hover:text-orange-500 transition duration-300";

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import { FaDownload } from "react-icons/fa6";
-import cv_pdf from "../assets/New.pdf";
+import cv_pdf from "../assets/Updated.pdf";
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
